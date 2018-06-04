@@ -1,6 +1,8 @@
 # Frequent-Pattern-Mining
 Data Mining- Implementation of Frequent Pattern Mining Algorithm
 
+This code is being done as the assignment of CS 412- Intro to Data Mining (Spring 2018), University of Illinois at Urbana Champaign.
+
 Rules for Implementation are mentioned below.
 
 Input Format
